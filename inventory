@@ -1,4 +1,9 @@
+[web_servers]
 root@172.105.250.48
 root@194.233.166.37
+
+[db_servers]
 root@192.46.235.75
+
+[file_servers]
 root@45.79.250.154
